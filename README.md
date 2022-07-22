@@ -1,7 +1,7 @@
 # Weather-Dasboard
 
 
-Deployed url:
+Deployed url: https://aileenbryand.github.io/Weather-App/
 
 User Story
 AS A traveler
