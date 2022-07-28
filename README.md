@@ -25,8 +25,7 @@ Acceptance Criteria
   THEN I am again presented with current and future conditions for that city
 
 
-Mock-Up
 
 
- 
-![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/107386198/180348380-4e03720c-5aec-4de3-8f25-de6d4d9f2ca9.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/107386198/181315470-a139726e-69d1-4208-8f00-d830690d0f48.png)
+
